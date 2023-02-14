@@ -1,4 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CIgnoreFile_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=_002A_002Edeps_002Ejson/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CLibraryFile_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CLibraryFile_002Eh/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CTestOptions_005CHTMLPage1_002Ehtml/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CTestOptions_005CLibraryFolder/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CIgnoreFile_002Ecpp/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CIgnoreFile_002Eh/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CTestOptions_005CIgnoreFolder/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

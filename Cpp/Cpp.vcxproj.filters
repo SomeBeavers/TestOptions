@@ -21,9 +21,21 @@
     <ClCompile Include="NewClass1.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="IgnoreFile.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LibraryFile.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NewClass1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IgnoreFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LibraryFile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

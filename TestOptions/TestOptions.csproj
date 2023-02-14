@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="IgnoreFolder\ts.ts">
+      <SubType>Code</SubType>
+    </None>
+    <None Update="ignored_by_mask.ts">
+      <SubType>Code</SubType>
+    </None>
+  </ItemGroup>
+
 </Project>

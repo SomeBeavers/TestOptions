@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksThirdParty/=library_002Ebymask_002Ets/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=Class1_002Ecs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=ignored_005Fby_005Fmask_002Ets/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=_002A_002Eignored_005Fby_005Fmask_002Ets/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=0FC7091A_002DF6F7_002D4FFF_002D9908_002D23AABF4BADA4_002Fd_003ALibraryFolder/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=0FC7091A_002DF6F7_002D4FFF_002D9908_002D23AABF4BADA4_002Ff_003AHTMLPage1_002Ehtml/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=61729C07_002D60E7_002D4DD1_002DBAF7_002D0488E7C673C6_002Ff_003ALibraryFile_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=61729C07_002D60E7_002D4DD1_002DBAF7_002D0488E7C673C6_002Ff_003ALibraryFile_002Eh/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=0FC7091A_002DF6F7_002D4FFF_002D9908_002D23AABF4BADA4_002Fd_003AIgnoreFolder/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=61729C07_002D60E7_002D4DD1_002DBAF7_002D0488E7C673C6_002Ff_003AIgnoreFile_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=61729C07_002D60E7_002D4DD1_002DBAF7_002D0488E7C673C6_002Ff_003AIgnoreFile_002Eh/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

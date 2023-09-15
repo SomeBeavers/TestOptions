@@ -1,9 +1,11 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=_002A_002Edeps_002Ejson/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CLibraryFile_002Ecpp/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CLibraryFile_002Eh/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CTestOptions_005CHTMLPage1_002Ehtml/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CTestOptions_005CLibraryFolder/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CIgnoreFile_002Ecpp/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CCpp_005CIgnoreFile_002Eh/@EntryIndexedValue">True</s:Boolean>
-	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=C_003A_005CWork_005CTest_0020Projects_005CTestOptions_005CTestOptions_005CIgnoreFolder/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksThirdParty/=_002Atest_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=test_002A_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FileMasksToSkip/=_002Atest_002Ecpp/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=_002E_002E_005C_002Egitattributes/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=_002E_002E_005CCpp_005CFileInIgnoredFolder_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersThirdParty/=0FC7091A_002DF6F7_002D4FFF_002D9908_002D23AABF4BADA4_002Fd_003ALibraryFolder/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=_002E_002E_005C_002Egitignore/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=0FC7091A_002DF6F7_002D4FFF_002D9908_002D23AABF4BADA4_002Fd_003AIgnoreFolder/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=61729C07_002D60E7_002D4DD1_002DBAF7_002D0488E7C673C6_002Ff_003ACpp_002Ecpp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=F300DC1B_002DE643_002D4CCB_002D80EE_002DA7F840B07500_002Ff_003ATestOptions_002Esln/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -130,12 +130,16 @@
     <ClCompile Include="Cpp.cpp" />
     <ClCompile Include="IgnoreFile.cpp" />
     <ClCompile Include="LibraryFile.cpp" />
+    <ClCompile Include="MyCool.cpp" />
     <ClCompile Include="NewClass1.cpp" />
+    <ClCompile Include="Mytest2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IgnoreFile.h" />
     <ClInclude Include="LibraryFile.h" />
+    <ClInclude Include="My.h" />
     <ClInclude Include="NewClass1.h" />
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

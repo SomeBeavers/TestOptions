@@ -27,6 +27,12 @@
     <ClCompile Include="LibraryFile.cpp">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mytest2.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyCool.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NewClass1.h">
@@ -36,6 +42,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="LibraryFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="My.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
